@@ -1,4 +1,4 @@
-# openmp.com
+# openmpsa.com
 
 Website of **MP Multiplayer** for GTA San Andreas Mobile: live server list, regions, version history and
 the downloads of the latest release.
