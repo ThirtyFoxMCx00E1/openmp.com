@@ -1,0 +1,72 @@
+{
+ "tag_name": "v3.35",
+ "name": "MP Multiplayer 3.35",
+ "published_at": "2026-10-30",
+ "also_supported": "v3.34, v3.32, v3.31, v3.30, v3.29, v3.28.2, v3.28.1, v3.28, v3.27, v3.26, v3.25, v3.24, v3.23.6, v3.23.5, v3.23.4, v3.23.3, v3.23.2, v3.23.1, v3.23, v3.22.1, v3.22, v3.21.9, v3.21.8, v3.21.7, v3.21.6, v3.21.5, v3.21.4, v3.21.3, v3.21.2, v3.21.1, v3.21, v3.11.6, v3.11.5, v3.11.4, v3.11.3, v3.11.2, v3.11.1, v3.11, v3.10, v3.04.6",
+ "assets": [
+  {
+   "name": "bin/libMP32.so",
+   "size": 4440752,
+   "download_count": 0
+  },
+  {
+   "name": "bin/libMP64.so",
+   "size": 5358312,
+   "download_count": 0
+  },
+  {
+   "name": "release/MP-3.35-full.zip",
+   "size": 18360593,
+   "download_count": 0
+  },
+  {
+   "name": "release/MP-3.35-client.zip",
+   "size": 16995404,
+   "download_count": 0
+  },
+  {
+   "name": "release/HiveMQ-kit-3.35.zip",
+   "size": 66237,
+   "download_count": 0
+  }
+ ],
+ "packages": [
+  {
+   "tag": "Assets-1-2",
+   "assets": [
+    {
+     "name": "hivemq-4.56.0.zip",
+     "size": 761147467,
+     "download_count": 0
+    },
+    {
+     "name": "OpenJDK21U-jdk_x64_linux_hotspot_21.0.13_9.tar.gz",
+     "size": 207858352,
+     "download_count": 0
+    }
+   ]
+  },
+  {
+   "tag": "Derbian",
+   "repo": "ThirtyFoxMCx00E1/HiveMQ",
+   "url": "https://github.com/ThirtyFoxMCx00E1/HiveMQ/releases/tag/Derbian",
+   "assets": [
+    {
+     "name": "debian-12.15.0-amd64-netinst.iso",
+     "size": 709885952,
+     "download_count": 0,
+     "sha256": "cd4462c06aa8892e692c0c4b9c17802f38c8ab8690e85cbfb5ccaa5956e9af17"
+    }
+   ]
+  }
+ ],
+ "downloads": [
+  "HiveMQ-kit.zip",
+  "MP-Voice.apk",
+  "MP-client.zip",
+  "MP-full.zip",
+  "libMP32.so",
+  "libMP64.so",
+  "mp-server-src.tar.gz"
+ ]
+}
